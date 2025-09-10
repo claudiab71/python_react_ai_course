@@ -3,3 +3,4 @@ python-dotenv
 fastapi[standard]
 python-multipart
 uvicorn[standard]
+PyPDF2
